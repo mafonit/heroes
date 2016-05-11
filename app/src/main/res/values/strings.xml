@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AttractHeroes</string>
+    <string name="list_item_error">данные не загружены</string>
+    <string name="network_disable">Проверьте подлючение к интернету</string>
+    <string name="all_names">Все записи</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+
+    <string name="name">Name :</string>
+    <string name="time">Time :</string>
+    <string name="desc">Desc :</string>
+
+
+
+    <string-array name="nav_drawer_items">
+        <item >menuItem1</item>
+        <item >menuItem2</item>
+    </string-array>
+
+
+</resources>

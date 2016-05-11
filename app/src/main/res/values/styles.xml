@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--<style name="AppTheme2" parent="Theme.AppCompat.Light">-->
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+        <!--<item name="colorPrimary">@color/appColor</item>-->
+        <!--<item name="colorControlNormal">@color/whiteColor</item>-->
+        <!--<item name="colorControlActivated">@color/appColor</item>-->
+    <!--</style>-->
+
+    <style name="ThemeToolbar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    <!-- navigation icon color -->
+    <item name="colorControlNormal">@color/colorAccent</item>
+    <!--<item name="colorControlNormal">@color/blueLight</item>-->
+    </style>
+
+
+</resources>

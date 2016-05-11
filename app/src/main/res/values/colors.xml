@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorPrimaryGrey">#5e5f60</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <color name="indicator">#ecd95a</color>
+
+    <color name="colorTextPrimaryWhite">#f5f4f8</color>
+    <color name="purpleDarkTransparent1">#b32e1534</color>
+    <color name="PrimaryBlackTransparent">#99111111</color>
+    <color name="yellow">#ffcc00</color>
+    <color name="green">#00cc66</color>
+    <color name="grey">#8c8c8c</color>
+    <color name="blue">#3f9fe0</color>
+    <color name="text_grey">#505050</color>
+    <color name="item_pressed">#d6d6d6</color>
+    <color name="white">#fafafa</color>
+    <color name="grey_light">#d6d6d6</color>
+
+</resources>

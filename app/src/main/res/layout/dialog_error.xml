@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:background="@color/colorAccent"
+    android:padding="20dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvError"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:text="dsfsdfsdfdsf"
+        android:textSize="22sp"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:layout_centerHorizontal="true"
+        android:layout_span="2"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+
+        android:textColor="@color/colorTextPrimaryWhite"
+        android:background="@color/PrimaryBlackTransparent"/>
+
+</LinearLayout>
